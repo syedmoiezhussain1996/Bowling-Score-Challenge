@@ -25,5 +25,7 @@ more than three balls can be played in the tenth frame.
 
 REQUIREMENTS
 Write a class called BowlingGame that has two methods:
+
 Play(int pins): void
+
 GetScore(): int
